@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" width="520" height="96" role="img" aria-label="held to maturity">
+  <rect width="520" height="96" fill="#f5f4ef"/>
+  <g transform="translate(8,16) scale(1)">
+    <polyline points="0,44 8,30 14,50 22,26 29,46 36,22 42,40 48,20" fill="none" stroke="#000" stroke-opacity=".28" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="0" y1="48" x2="44" y2="16" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="46" cy="14.5" r="5" fill="#000"/>
+  </g>
+  <text x="80" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#000" letter-spacing="-0.5">held to maturity</text>
+</svg>
